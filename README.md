@@ -45,7 +45,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 
 ## 📁 Deliverables
 
-- ✅ `DS_Assignment.py': Clean Colab notebook with full analysis
+- ✅ `DS_Assignment.ipynb': Clean Colab notebook with full analysis
 - ✅ Visualizations and summary
 - ✅ Insights and implications
 
@@ -53,7 +53,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 
 ## 📫 Contact
 
-Prepared by: *Bhushan Sutar *  
+Prepared by: *Bhushan Sutar*  
 Email: *bhushansutar1904@gmail.com*  
 Date: *24/06/25*  
 For: Junior Data Scientist – Trader Behavior Insights Assignment  
