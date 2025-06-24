@@ -6,7 +6,7 @@
 
 This project explores the relationship between market sentiment (Fear vs Greed) and trader performance on the Hyperliquid platform. The goal is to uncover behavioral patterns that can inform smarter trading strategies by analyzing trade outcomes against sentiment shifts.
 
----
+
 
 ## 📊 Datasets Used
 
@@ -16,7 +16,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 2. **Trader Data** (`historical_data.csv`)  
    - Trade-level data including price, size, side, PnL, and timestamp
 
----
+
 
 ## 📈 Key Analyses
 
@@ -27,7 +27,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
   - Average trade size
 - ✅ Created visualizations (boxplots, bar charts)
 
----
+
 
 ## 📌 Key Insights
 
@@ -41,7 +41,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 - Sentiment can guide **position sizing and risk management**.
 - Incorporating sentiment into trading systems may improve performance.
 
----
+
 
 ## 📁 Deliverables
 
@@ -49,7 +49,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 - ✅ Visualizations and summary
 - ✅ Insights and implications
 
----
+
 
 ## 📫 Contact
 
