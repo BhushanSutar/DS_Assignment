@@ -34,6 +34,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 - Traders are more profitable and confident during **Greed**.
 - Sentiment can guide **position sizing and risk management**.
 - Incorporating sentiment into trading systems may improve performance.
+- A potential risk-averse strategy could involve avoiding high-volume trades during Fear sentiment phases.
 
 
 
