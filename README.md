@@ -50,6 +50,30 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 - ✅ Insights and implications
 
 
+## 🤖 Predictive Modeling (Bonus)
+
+To take the analysis a step further, a **Random Forest Classifier** was developed to predict whether a trade will be **profitable** based on features such as:
+
+- Market Sentiment (Fear/Greed)  
+- Trade Size (USD)  
+- Execution Price  
+- Coin/Symbol  
+- Trade Side (Buy/Sell)
+
+### 📦 Features Used
+- `Sentiment`
+- `Size USD`
+- `Execution Price`
+- `Coin`
+- `Side`
+
+### 💡 Strategic Value
+
+- Can be used in **trading bots or dashboards** to assess trade potential
+- Helps avoid **low-probability trades** during Fear sentiment
+- Can **recommend optimal conditions** based on historical data
+
+
 
 ## 📫 Contact
 
