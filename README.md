@@ -55,6 +55,10 @@ To take the analysis a step further, a **Random Forest Classifier** was develope
 - Coin/Symbol  
 - Trade Side (Buy/Sell)
 
+### Performance
+  ![image](https://github.com/user-attachments/assets/4a536e55-b133-429d-a74b-6e61e2009576)
+
+
 ###  Features Used
 - `Sentiment`
 - `Size USD`
