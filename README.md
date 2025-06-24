@@ -31,12 +31,6 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 
 ##  Key Insights
 
-| Metric                 | Greed Days        | Fear Days         |
-|------------------------|-------------------|--------------------|
-| Avg. Profit (PnL)      | Higher             | Lower              |
-| Win Rate               | Higher             | Lower              |
-| Trade Size (USD)       | Larger trades      | Smaller trades     |
-
 - Traders are more profitable and confident during **Greed**.
 - Sentiment can guide **position sizing and risk management**.
 - Incorporating sentiment into trading systems may improve performance.
